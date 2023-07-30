@@ -1,6 +1,6 @@
 # nightCTX
 
-multi-purpose discord bot written in python.
+multi-purpose discord nuker written in python.
 
 
 # Credits to
